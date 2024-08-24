@@ -1,0 +1,171 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.big{
+    margin-right: 1000px;
+}
+.d-flex{
+    display: flex;
+}
+nav{
+    background-color: #292929;
+    display: flex;
+    padding-left: 100px;
+}
+select{
+    border: none;
+    background-color: #292929;
+    color: gray;
+}
+.select:hover{
+    border: none;
+    color: red;
+}
+.logo{
+    margin: 30px;
+    margin-left: 100px;
+}
+hr{
+    color: gray;
+    margin: 0%;
+    padding: 0%;
+    border-top: 1px dotted;
+    width: 85%;
+    margin-left :100px;
+}
+.menu{
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    gap: 25px;
+    font-weight: 700;
+    margin: 7px;
+    /* margin-left: 60px; */
+    font-size: 13px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.icon{
+    height: 25px;
+    width: 25px;
+    margin-top: 5px;
+    margin-left: 70px;
+    border-right: 1px solid darkgray;
+}
+.smbacket{
+    height: 20px;
+    width: 20px;
+}
+.backet{
+    height: 30px;
+    width: 30px;
+}
+.backet div{
+    display: flex;
+}
+li{
+    margin: 20px;
+}
+.margin-left{
+    margin-left: 30px;
+}
+.sideleft{
+    width: 190px;
+    /* padding: 20px; */
+
+    padding:  15px;
+    padding-top: 10px;
+    margin: 30px;
+    margin-left: 100px;
+}
+#h3{
+    font-size: 15px;
+}
+h3{
+    margin: 20px;
+}
+.id{
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+.size{
+    width: 250px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.image{
+    margin-top: 30px;
+    display: flex;
+    margin-bottom: 20px;
+}
+.photo{
+    height: 250px;
+    width: 200px;
+    border: 1px solid lightgray;
+}
+.photodiv{
+    margin: 10px;
+    width: 200px;
+}
+.top{
+    margin-top: 10px;
+}
+#pic1{
+    width: 120px;font-size: 12px;padding: 10px; background-color: brown;
+}
+#button{
+    margin:10px;
+    color: gray;
+}
+.border{
+    border: 1px solid lightgray;
+}
+#h{
+    margin:10px;
+    margin-left: 30px;
+}
+.h{
+    margin: 10px;
+    margin-left: 20%;
+    font-size: 15px;
+}
+.Sofas{
+    padding: 10px;
+    border-right: 1px solid lightgray;
+    /* margin: 5   px; */
+}
+.center{
+    text-align: center;
+}
+.small{
+    font-size: 15px;
+    color: gray;
+}
+.font{
+    font-weight: 200;
+    color: lightgray;
+}
+.margin{
+    margin: 10px;
+}
+.marginb{
+    margin: 30px;
+}
+.margin-top{
+    margin-top: 30px;
+}
+#id{
+    height: 300px;
+    width: 200px;
+}
+.texsmaller{
+    font-size: 10px;
+}
+.banner{
+    margin: 57;
+}
